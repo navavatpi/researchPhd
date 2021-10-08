@@ -1,3 +1,3 @@
 # researchPhd
-# navavat's phd codes repository
-# all codes contain several versions
+## author: navavat's phd codes repository
+all codes contain several versions
