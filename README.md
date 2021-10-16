@@ -4,7 +4,8 @@
 ## branch = main
 this is the main branch contain all executable notebooks which are able to run via colab
 
-now we have 2 notebooks which are
+now we have completed notebooks which are
+
 1_data_acquisition_and_preparation.ipynb: it perform data acquisition & data preparation for all ML methods
 
 2_data_modeling_CNN_model.ipynb: the complete data life cycle for CNN model
