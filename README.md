@@ -4,10 +4,17 @@
 ## branch = main
 this is the main branch contain all executable notebooks which are able to run via colab
 
-now we have 2 notebooks which are
-1. 1_dataAcquisitionAndPreparation.ipynb: it perform data acquisition & data preparation for all ML methods
-2. 2_dataModelingCNNModel.ipynb: the complete data life cycle for CNN model
-3. 3_dataModelingMLPModel.ipynb: the complete data life cycle for MLP model
+now we have completed notebooks which are
 
-## branch = develop ANN
+1_data_acquisition_and_preparation.ipynb: it perform data acquisition & data preparation for all ML methods
+
+2_data_modeling_CNN_model.ipynb: the complete data life cycle for CNN model
+
+3_data_modeling_MLP_model.ipynb: the complete data life cycle for MLP model
+
+## branch = developSklearn
 this is under developing process branch, the contained files will progress follow source codes from proposal defense
+
+under devepment
+
+4_data_modeling_scikit_models.ipynb
